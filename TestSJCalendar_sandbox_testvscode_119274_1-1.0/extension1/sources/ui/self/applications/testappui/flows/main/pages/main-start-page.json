@@ -1,0 +1,15 @@
+{
+  "title": "",
+  "description": "",
+  "variables": {},
+  "metadata": {},
+  "types": {},
+  "eventListeners": {},
+  "imports": {
+    "components": {
+      "oj-sp-calendar": {
+        "path": "oj-sp/calendar/loader"
+      }
+    }
+  }
+}
